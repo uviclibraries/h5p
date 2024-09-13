@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
+## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with **Lumi** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **5-10 minutes**<br>
