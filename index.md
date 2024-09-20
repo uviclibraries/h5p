@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/lumi.png" style="float:right;width:180px;" alt="Lumi logo">
 
 # Web Based Instruction & Self-Assessment Using the Open Source Lumi Toolkit
 
