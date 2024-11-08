@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: 4-Sharing and Embedding 
+nav_order: 4
+parent: Workshop Activities
+---
 
 ## Add your interactive video to a blog post:
 - Click on the **Posts** button on the left navigation bar.
