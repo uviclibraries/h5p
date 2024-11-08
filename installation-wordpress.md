@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Interactive Videos on a WordPress Blog with H5P
 In this exercise, you will practice capturing still shots of all or parts of your screen, annotating the screen captures and inserting the resulting image file into a blog post. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.
 
-Before you start making your own interactive video, please watch this excellent example of an H5P video being used to **[teach a grade 2 science experiment virtually](https://brittanyseducblog.opened.ca/2020/10/03/science-demonstration-video){:target="_blank"}**. as well as <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="600" frameborder="0" allowfullscreen="allowfullscreen" title="Growth Mindset Video for Students"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> Have fun!  
+Before you start making your own interactive video, please watch this excellent example of an H5P video being used to **[teach a grade 2 science experiment virtually](https://brittanyseducblog.opened.ca/2020/10/03/science-demonstration-video){:target="_blank"}**.
 
 1. If you haven’t done so already, install the H5P plugin in your WordPress blog, or if you have a UVic student, please create an [OpenEd.ca blog](https://opened.ca/get-started/){:target="_blank"} for this exercise if you don’t already have one.
 
