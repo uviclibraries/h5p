@@ -2,7 +2,7 @@
 layout: default
 title: 2-Wordpress installation 
 nav_order: 2
-parent: workshop activities
+parent: Workshop Activities
 ---
 <img src="images/h5p.png" style="float:right;width:220px" alt="H5P logo"> 
 # Interactive Videos on a WordPress Blog with H5P
