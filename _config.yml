@@ -1,8 +1,8 @@
-title: Web-Based Edu Games with Lumi
+title: Web-Based Edu Games with H5P
 remote_theme: pmarsceill/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/lumi" # the github URL for your repo
+gh_edit_repository: "https://github.com/uviclibraries/h5p" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "master" # the branch that your docs is served from
