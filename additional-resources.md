@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## Web Based Instruction and Self Assessment Using the Open Source H5P toolkit Resources
 
 
 ## Acknowledgements
