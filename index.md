@@ -3,8 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-# CHANGE IMAGE!!!
-<img src="images/lumi.png" style="float:right;width:180px;" alt="Lumi logo">
+<img src="images/h5p.png" style="float:right;width:220px" alt="H5P logo"> 
 
 # Web Based Instruction & Self-Assessment Using the Open Source H5P Toolkit
 
@@ -12,9 +11,9 @@ nav_order: 1
 - Introductory presentation: 15 min
 - Hands-on activities: 60-90 min
 
-## Why Lumi? 
+## Why H5P? 
 
-[H5P](https://h5p.org/){:target="_blank"} is a open source toolkit that allows users to create interactive web based content to make learning more engaging. JH5P can act as a tool for educators to create self-paced makerspace instruction and self assessments, thus making learning accessible and a personalized experience. 
+[H5P](https://h5p.org/){:target="_blank"} is a open source toolkit that allows users to modify ehisting Youtube videos and create interactive web based content to make learning more engaging. H5P can act as a tool for educators to create self-paced makerspace instruction and self assessments, thus making learning accessible and a personalized experience. 
 
 ## Learning objectives - UPDATE FOR THE NEW TOOL
 
