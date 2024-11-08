@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Wordpress installation 
+title: 2-H5P plugin installation 
 nav_order: 2
 parent: Workshop Activities
 ---
