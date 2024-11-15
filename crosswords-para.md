@@ -6,7 +6,8 @@ parent: Workshop Activities
 ---
 <img src="images/crossword-para-1.png" style="width:500px"> 
 
-# Crosswords
+# Crosswords, Paragraph Sort and Find the Words Activities
+## Crosswords
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Crossword** and click on  **get** and **install**
@@ -26,7 +27,7 @@ parent: Workshop Activities
 <img src="images/example-crossword.png" style="width:500px"><br>
 Congratulations you have created a crossword. 
 
-# Sort the paragraphs
+## Sort the paragraphs
 Repeat steps 1-5 except instead of crossword select **sort the paragraphs**
 1. First title your project as **Alphabet sort**
 2.  Next under the task description, include the following **Use the arrows to sort the following sentences in order that they typically would occur by placing the first item on the top and the last on the bottom.**
@@ -38,4 +39,16 @@ Repeat steps 1-5 except instead of crossword select **sort the paragraphs**
 7. Finally select the green **create** button on the right side of the screen.
 Congratualations you created a paragraph sort activity. Great work.   
 <img src="images/para-sort.png" style="width:500px"><br>
+
+## Find the words
+Repeat steps 1-5 except instead of crossword select **Find the words**
+1. First title your project as **word search**
+2.  Next under the task description, keep the existing description of **Find the words from the grid**
+3. Next under the word list tab include various words seperated by commas only (no spaces), for instance **one,two,three.four**.
+4. Then press the green **create button**
+   Note: Make sure when you add them you add them in the correct order.
+6. Under behavioural settings modify the scooring mode by selecting the toggle and changing it to **correct sequence**
+7. Finally select the green **create** button on the right side of the screen.
+<img src="images/word-search.png" style="width:500px"><br>
+Congratualations you created a word search activity. Great work. 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
