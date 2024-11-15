@@ -33,6 +33,10 @@ parent: Workshop Activities
 
 Other possible stage content to explore include audio, drag the words, image, memory game, multiple choice, single choice set, mutliple choce and regular text. Feel free to explore these extra tools to create your interactive game map. 
 
-Note you can also add time limits per questions and restrictions (mandating a minimum score to move on for instance) and feedback. Those features are located following the stage label. See screenshot. 
+Note you can also add time limits per questions and restrictions (mandating a minimum score to move on for instance) and feedback. Those features are located following the stage label.
+
+Congratualations you have created an interactive game map!
+
+<iframe src="https://h5p.org/h5p/embed/1466205" width="1090" height="870" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Solar system simplified"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
