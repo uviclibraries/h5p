@@ -42,5 +42,6 @@ parent: Workshop Activities
 ![Add an interaction to your H5P Video](images/h5p-06.gif)
 
  Congratulations, you’ve created an interactive video.
-
+ 
+[NEXT STEP: Creating a game map](game-map.html){: .btn .btn-blue }<br>
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
