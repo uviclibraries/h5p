@@ -26,4 +26,4 @@ Before you start making your own interactive video, please watch this excellent 
 Great Job!<br>
 ![H5P poster of tools](images/h5p-08.png)<br>
 
-[NEXT STEP: Interactive videos](interactive.html){: .btn .btn-blue }<br>
+[NEXT STEP: Interactive videos](interactive-videos.html){: .btn .btn-blue }<br>
