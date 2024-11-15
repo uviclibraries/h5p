@@ -20,7 +20,7 @@ parent: Workshop Activities
 12. Finally add one last question by repeating step 10.
 13. For the clue, write: **the cememnt structure oustide of Maclaurin is called**, answer **ziggurat**
 14. For this one lets add an extra clue by adding an image. So select **image** on the drop down.
-15. Download this [image](https://images.app.goo.gl/KJ6TvjzCRypjkko19)
+15. Download this [image](https://images.app.goo.gl/KJ6TvjzCRypjkko19){:target="_blank"}
 16. Once it is downloaded, press the add button in the H5P window and select that image.
 <img src="images/example-crossword.png" style="width:500px"> 
 Congratulations you have created a crossword. 
