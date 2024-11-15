@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5-Crossword and Pararaphs
-nav_order: 6
+nav_order: 5
 parent: Workshop Activities
 ---
 <img src="images/crossword-para-1.png" style="width:500px"> 
@@ -37,3 +37,5 @@ Repeat steps 1-5 except instead of crossword select **sort the paragraphs**
 6. Under behavioural settings modify the scooring mode by selecting the toggle and changing it to **correct sequence**
 7. Finally select the green **create** button on the right side of the screen.
 Congratualations you created a paragraph sort activity. Great work.   
+
+[NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
