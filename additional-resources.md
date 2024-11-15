@@ -4,7 +4,7 @@ title: Additional Resources
 nav_order: 10
 ---
 # Additional Resources & Acknowledgements
-
+- [Memory Game instructions](https://h5p.org/documentation/content-author-guide/tutorials-for-authors/memory-game)
 ## Web Based Instruction and Self Assessment Using the Open Source H5P toolkit Resources
 
 
