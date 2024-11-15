@@ -28,7 +28,7 @@ parent: Workshop Activities
     - Also see screenshot for important instructions on when to use an asterisk, forward slash and colon.
 <img src="images/game-map-2.png" style="width:500px"> 
     - Under behavioural settings you can select by clicking the box to link to the beginning box.
-    - Then select done. ONce done select publish on right had side of the page.
+    - Then select done. Once done select publish on right had side of the page.
 12. Now when you visit H5P content on your wordpress page you should be able to see the learning adventure game map you just created and you can go back and edit it anytime by selecting edit.
 
 Other possible stage content to explore include audio, drag the words, image, memory game, multiple choice, single choice set, mutliple choce and regular text. Feel free to explore these extra tools to create your interactive game map. 
