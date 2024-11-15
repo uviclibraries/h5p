@@ -34,3 +34,5 @@ parent: Workshop Activities
 Other possible stage content to explore include audio, drag the words, image, memory game, multiple choice, single choice set, mutliple choce and regular text. Feel free to explore these extra tools to create your interactive game map. 
 
 Note you can also add time limits per questions and restrictions (mandating a minimum score to move on for instance) and feedback. Those features are located following the stage label. See screenshot. 
+
+[NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
