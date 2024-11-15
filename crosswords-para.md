@@ -37,5 +37,5 @@ Repeat steps 1-5 except instead of crossword select **sort the paragraphs**
 6. Under behavioural settings modify the scooring mode by selecting the toggle and changing it to **correct sequence**
 7. Finally select the green **create** button on the right side of the screen.
 Congratualations you created a paragraph sort activity. Great work.   
-
+<img src="images/para-sort.png" style="width:500px"><br>
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
