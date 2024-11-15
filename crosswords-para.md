@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Crossword and Pararaphs
+title: 5-Crossword and Paragraphs
 nav_order: 5
 parent: Workshop Activities
 ---
