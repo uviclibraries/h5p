@@ -11,4 +11,16 @@ parent: Workshop Activities
 3. In the search for content types box, type **Crossword** and click on  **get** and **install**
 4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
 5. Then press use.
-6. 
+6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Campus Facts**.
+7. Next for the task description include the following: **Name the university building based on the clues that are given.**
+8. Under words, add  the following clue: **the name of the UVic fountain**, answer **petch**.
+9. Next click on word 2 and write the following clue: **the building the Digital Scholarship Commons is in?**, answer **mcpherson**
+10. Next, click the blue **add word box**
+11. Click on word 3 and write **The Faculty of Education advising  building**, answer **maclaurin**
+12. Finally add one last question by repeating step 10.
+13. For the clue, write: **the cememnt structure oustide of Maclaurin is called**, answer **ziggurat**
+14. For this one lets add an extra clue by adding an image. So select **image** on the drop down.
+15. Download this [image](https://images.app.goo.gl/KJ6TvjzCRypjkko19)
+16. Once it is downloaded, press the add button in the H5P window and select that image.
+<img src="images/example-crossword.png" style="width:500px"> 
+Congratulations you have created a crossword. 
