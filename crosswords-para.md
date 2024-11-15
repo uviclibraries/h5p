@@ -6,6 +6,7 @@ parent: Workshop Activities
 ---
 <img src="images/crossword-para-1.png" style="width:500px"> 
 
+# Crosswords
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Crossword** and click on  **get** and **install**
@@ -22,5 +23,17 @@ parent: Workshop Activities
 14. For this one lets add an extra clue by adding an image. So select **image** on the drop down.
 15. Download this [image](https://images.app.goo.gl/KJ6TvjzCRypjkko19){:target="_blank"}
 16. Once it is downloaded, press the add button in the H5P window and select that image.
-<img src="images/example-crossword.png" style="width:500px"> 
+<img src="images/example-crossword.png" style="width:500px"><br>
 Congratulations you have created a crossword. 
+
+# Sort the paragraphs
+Repeat steps 1-5 except instead of crossword select **sort the paragraphs**
+1. First title your project as **Alphabet sort**
+2.  Next under the task description, include the following **Use the arrows to sort the following sentences in order that they typically would occur by placing the first item on the top and the last on the bottom.**
+3. Next under the paragraph tab include various words, for example type **animal**
+4. Next click **add paragraph** (blue button on bottom left side)
+5. Other words you could for example are: **bear, cat, dog, elephant**
+   Note: Make sure when you add them you add them in the correct order.
+6. Under behavioural settings modify the scooring mode by selecting the toggle and changing it to **correct sequence**
+7. Finally select the green **create** button on the right side of the screen.
+Congratualations you created a paragraph sort activity. Great work.   
