@@ -35,8 +35,14 @@ nav_order: 10
     - Timeline
     - Image Pairing and Image Slider
     - Documentation tool
-    - True or False 
-- 
+    - True or False
+### More examples
+- [Speak the word set](https://h5p.org/speak-the-words-set#example=119337){:target="_blank"}
+- [Interactive Books](https://h5p.org/content-types/interactive-book){:target="_blank"}
+- [Multimedia choice](https://h5p.org/content-types/image-choice){:target="_blank"}
+- [Information Wall](https://h5p.org/content-types/information-wall){:target="_blank"}
+- [Structure strip](https://h5p.org/content-types/structure-strip){:target="_blank"}
+- [Cornell Notes template](https://h5p.org/node/1252534){:target="_blank"}
 ## Web Based Instruction and Self Assessment Using the Open Source H5P toolkit Resources
 
 
