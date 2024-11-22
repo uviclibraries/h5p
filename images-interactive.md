@@ -66,6 +66,25 @@ Follow steps 1-5 under the Memory game activity but search for **Image hotspots*
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="675" height="1036" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit Smoothie"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Juxtaposition
+Sample pre-processed images for making a Juxtapose are available on Flickr: an image of the [McPherson Library in 1963](https://www.flickr.com/photos/152721723@N08/40478805172/in/photostream/){:target="_blank"} and a [similar image from 2013](https://www.flickr.com/photos/152721723@N08/40478806912/){:target="_blank"}, and an image of the BC Parliament buildings [by day](https://www.flickr.com/photos/152721723@N08/39488549515/in/photostream/){:target="_blank"} and [by night](https://www.flickr.com/photos/152721723@N08/39674455174/){:target="_blank"} 
+
+You can also do Image Juxtaposition through our other DSC Workshop on [Data VIsualization and Narrative Maps](https://uviclibraries.github.io/data-visualization-and-narrative-maps/comparison.html){:target="_blank"}
+
+For the H5P activity follow the next steps
+1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
+3. In the search for content types box, type **Image Juxtaposition** and click on  **get** and **install**
+4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+5. Then press use.
+6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Library**.
+7. Next you will need to download two images, select the **bottom right arrow down button** and download the **original size** (note if you select your own images they must be approximately the same size and the picture must be taken at the same angle to create the effect.
+8. Add Image 1 of the black and white image. THis image will be the left hand side of the juxtaposition.
+9. Add the alternative text **Mcpherson 1963**
+10. Add Image 2 of the 2013 Library. THis image will be the right hand side of the juxtaposition.
+9. Add the alternative text **Mcpherson 2013**
+10. Click **behavioural settings**, leave the slider to be horizonal but change the slider color to a color of your choosing. I will choose #3a18b1.
+11. Now select **Create** and there you have your image juxtaposition.<br>
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="675" height="493" frameborder="0" allowfullscreen="allowfullscreen" title="Library"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Slider
 
