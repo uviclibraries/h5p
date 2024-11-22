@@ -5,7 +5,8 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-## Memory / Image Pairing ,Image Sequencing, Image Hotspots, Image Juxtaposition, Image Slider
+## Memory / Image Pairing ,Image Sequencing, Image Slider, Image Hotspots and Image Juxtaposition
+(these activities do not need to be done in a specific order however the Memory game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
 
 ### Memory Game and Image Pairing 
 (The difference between memory and Image pairing is that the matching image of the image pair is typically not the same image, so instead of downloading 4 images you would have to download 8 and find themes for example we could have raspberries and strawberries matching as they are both berries and then have a red apple and  a green apple for instance). 
@@ -42,7 +43,20 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 9. Now before completing, make sure to move the images in the correct order starting with Apple. Use the arrows to do this.
 10. The order is as follows Apple, Cherries, Raspberries, Strawberry
 11. Once you have done this,  click the **Create** button on the top right hand side.
-<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="400" height="500" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> <br>
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="400" height="500" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+
+### Image Slider
+Follow steps 1-5 under the Memory game activity but search for **Image Slider** instead.
+1. Next title your project as **Red Fruit Examples** and use the images you already downloaded in the Memory activity.
+2. Here are the images again
+   - [strawberry](https://www.pexels.com/photo/red-and-orange-apple-fruit-102104/){:target="_blank"},
+   - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
+   - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
+   - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
+3. Title the fruit according to their name and write the same for the alternative text
+4. Add item to add more images.<br>
+
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=16" width="675" height="516" frameborder="0" allowfullscreen="allowfullscreen" title="Red fruit examples"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Hotspots 
 Follow steps 1-5 under the Memory game activity but search for **Image hotspots** instead.
@@ -85,7 +99,5 @@ For the H5P activity follow the next steps
 10. Click **behavioural settings**, leave the slider to be horizonal but change the slider color to a color of your choosing. I will choose #3a18b1.
 11. Now select **Create** and there you have your image juxtaposition.<br>
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="675" height="493" frameborder="0" allowfullscreen="allowfullscreen" title="Library"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
-
-### Image Slider
 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
