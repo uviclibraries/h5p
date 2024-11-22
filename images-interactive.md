@@ -63,6 +63,10 @@ Follow steps 1-5 under the Memory game activity but search for **Image hotspots*
 15. Title it as **Strawberry Banana Smoothie**
 16. For video source, paste the following link [https://www.youtube.com/watch?v=TJPhWB67_lA](**https://www.youtube.com/watch?v=TJPhWB67_lA**){:target="_blank"}
 17. Finally return to the top and on the right side, click the **Create** button
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="675" height="1036" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit Smoothie"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
+### Image Juxtaposition
+
+### Image Slider
 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
