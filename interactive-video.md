@@ -28,7 +28,7 @@ parent: Workshop Activities
 
 ## Adding a Multiple choice Question 
 3. Add a multiple-choice question to your video
-- On the toolbar above the video click on the **multiple-choice** button (the button with 3 round circles and 3 lines beside them).
+- On the toolbar above the video click on the **multiple-choice** button (the button with 1 check mark, 2 Xs and 3 lines beside them).
 - In the dialogue box that appears, click on the **Pause video** checkbox.
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Next type the title you want for your multiple-choice question in the **Title** text box.
