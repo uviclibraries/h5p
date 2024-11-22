@@ -37,7 +37,7 @@ parent: Workshop Activities
 - Type in other answers below, clicking the **Add answer** button as necessary.
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
-- Click the blue **Create** button in the very top right corner of the web page. 
+- Click the blue **Create** button in the very top right or bottom right corner of the web page, depending on your screen size.
 - Finally, **copy the "Short Code"** on the top right of your screen that should look something like this:<br> 
    <code>[h5p id="1"]</code>
 - You will paste the short code you just into a new blog post line or block in order to embed it in your blog post in the next step. Your interactive video is now ready to be embedded in a blog post or web page!<br>
