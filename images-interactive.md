@@ -37,7 +37,7 @@ Follow steps 1-5 under the Memory game activity but search for Drag and Drog ins
 3. Scroll back up and click on the **circle target icon** to add a drop zone.
 5. Label the drop zone as the fruit name, for instance strawberry and tick the **show label box**.
 6. Tick the box **This drop zone can only contain one element** and press **done** when it is complete
-7. Next repeat step 3-5 and do that for the other fruits (raspberry, apples, cheries)
+7. Repeat step 3-5 and do that for the other fruits (raspberry, apples, cheries)
 8. Now, we will add our images. We will use the same ones we downloaded in step 7 for the previous activity of memory. To do this click the third icon under the task box, it looks like a **image icon**
 9. Add your fruit image by repeating step 7-9 for each image and provide the name of the fruit as the alternative text.
 10. Note for each image you must **select all** drop zones, so that particpants can drag to all the possible options . For instance **the strawberry image with the strawberry dropbox**
@@ -47,7 +47,7 @@ Follow steps 1-5 under the Memory game activity but search for Drag and Drog ins
 
 ### Image Sequencing
 Follow steps 1-5 under the Memory game activity but search for **Image Sequencing** instead.
-1. Next title your project as **Sequencing Alphabetically**
+1. Title your project as **Sequencing Alphabetically**
 2. For the task description, write **Drag to arrange the images in the correct alphabetical sequence**
 3. For alternate task description, write **Make the following list be ordered correctly using alphabetical order. Use the cursor keys to navigate through the list items, use space to activate or deactivate an item and the cursor keys to move it**
 4. We will stick to using the same four images you previously downloaded in the memory game step 7
@@ -62,7 +62,7 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 
 ### Image Slider
 Follow steps 1-5 under the Memory game activity but search for **Image Slider** instead.
-1. Next title your project as **Red Fruit Examples** and use the images you already downloaded in the Memory activity.
+1. Title your project as **Red Fruit Examples** and use the images you already downloaded in the Memory activity.
 2. Here are the images again
    - [strawberry](https://www.pexels.com/photo/red-and-orange-apple-fruit-102104/){:target="_blank"},
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
