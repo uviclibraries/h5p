@@ -25,7 +25,6 @@ parent: Workshop Activities
 15. Download this [image](https://images.app.goo.gl/KJ6TvjzCRypjkko19){:target="_blank"}
 16. Once it is downloaded, press the add button in the H5P window and select that image.
 <img src="images/example-crossword.png" style="width:500px"><br>
-<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="959" height="494" frameborder="0" allowfullscreen="allowfullscreen" title="word search"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 Congratulations you have created a crossword. 
 
 ## Sort the paragraphs
@@ -51,5 +50,6 @@ Repeat steps 1-5 except instead of crossword select **Find the words**
 6. Under behavioural settings modify the scooring mode by selecting the toggle and changing it to **correct sequence**
 7. Finally select the green **create** button on the right side of the screen.
 <img src="images/word-search.png" style="width:500px"><br>
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="959" height="494" frameborder="0" allowfullscreen="allowfullscreen" title="word search"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 Congratualations you created a word search activity. Great work. 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
