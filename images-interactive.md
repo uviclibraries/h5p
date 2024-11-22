@@ -4,8 +4,8 @@ title: 6-Interactive Images
 nav_order: 6
 parent: Workshop Activities
 ---
-
-## Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Hotspots and Image Juxtaposition
+# Interactive Image Activities
+Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Hotspots and Image Juxtaposition.
 (these activities do not need to be done in a specific order however the Memory game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
 
 ### Memory Game and Image Pairing 
@@ -21,12 +21,12 @@ parent: Workshop Activities
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
    - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
    - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
-8. Next, you can add an image, by clicking the **+Add** button, lets start by adding the strawberry image that we downloaded in step 7. 
+8. You can add an image, by clicking the **+Add** button, lets start by adding the strawberry image that we downloaded in step 7. 
 9.  You must also add an alternative text to make the activity accessible, ie label your fruit with their names. As an option, you can also add audio tracks.
 10.  To try the audio feature out add the following URL: [https://www.youtube.com/watch?v=V5gbngf_7w0](https://www.youtube.com/watch?v=V5gbngf_7w0){:target="_blank"}
 11.  In the same card, add the image a second time, since this will be a game of memory. So repeat steps 8-10.
 12.  You can add a final description for once the 2 cards are found. For instance you could say. **Congrats you found the strawberry.**
-13.  Next scroll back to the top and press on card 2 and repeat steps 8-12 but with the next photo, the apple. This time no need to add an audio track. 
+13. Scroll back to the top and press on card 2 and repeat steps 8-12 but with the next photo, the apple. This time no need to add an audio track. 
 14.  Finally select **Add new** card and repeat again for the cherries and raspberries.
 15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="400" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
@@ -34,9 +34,9 @@ parent: Workshop Activities
 Follow steps 1-5 under the Memory game activity but search for Drag and Drog instead.
 1. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruits**.
 2. Now under settings add a background image, if you wish. For this activty we will toggle to **step 2 task**
-3. Next scroll back up and click on the **circle target icon** to add a drop zone.
+3. Scroll back up and click on the **circle target icon** to add a drop zone.
 5. Label the drop zone as the fruit name, for instance strawberry and tick the **show label box**.
-6. Next. tick the box **This drop zone can only contain one element** and press **done** when it is complete
+6. Tick the box **This drop zone can only contain one element** and press **done** when it is complete
 7. Next repeat step 3-5 and do that for the other fruits (raspberry, apples, cheries)
 8. Now, we will add our images. We will use the same ones we downloaded in step 7 for the previous activity of memory. To do this click the third icon under the task box, it looks like a **image icon**
 9. Add your fruit image by repeating step 7-9 for each image and provide the name of the fruit as the alternative text.
@@ -85,7 +85,7 @@ Follow steps 1-5 under the Memory game activity but search for **Image hotspots*
 8. **Hotspot**: Click on the bananas on the image. Sometimes you have to double click. 
 9. Finally for the **Popup content**, select **text** from the toggle
 10. Write **3 bananas**
-11. Next we will **add hotspot** by clicking the blue bottom at the bottom
+11. We will **add hotspot** by clicking the blue bottom at the bottom
 12. We will repeat step 8 but select the strawberries this time.
 13. You will add a header of strawberries
 14. Finally for the **Popup content**, select **video** from the toggle.
