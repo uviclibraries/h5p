@@ -24,7 +24,7 @@ parent: Workshop Activities
 14. For this one lets add an extra clue by adding an image. So select **image** on the drop down.
 15. Download this [image](https://images.app.goo.gl/KJ6TvjzCRypjkko19){:target="_blank"}
 16. Once it is downloaded, press the add button in the H5P window and select that image.
-<img src="images/example-crossword.png" style="width:500px"><br>
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="675" height="1165" frameborder="0" allowfullscreen="allowfullscreen" title="Campus Facts"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 Congratulations you have created a crossword. 
 
 ## Sort the paragraphs
@@ -38,7 +38,7 @@ Repeat steps 1-5 except instead of crossword select **sort the paragraphs**
 6. Under behavioural settings modify the scooring mode by selecting the toggle and changing it to **correct sequence**
 7. Finally select the green **create** button on the right side of the screen.
 Congratualations you created a paragraph sort activity. Great work.   
-<img src="images/para-sort.png" style="width:500px"><br>
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=5" width="675" height="615" frameborder="0" allowfullscreen="allowfullscreen" title="Alphabet sort"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ## Find the words
 Repeat steps 1-5 except instead of crossword select **Find the words**
