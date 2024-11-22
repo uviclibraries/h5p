@@ -13,7 +13,7 @@ parent: Workshop Activities
 - Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post! **NOTE**: The H5P video will not preview like a regular YouTube video in edit mode, but will display properly when you view the public version of the web page.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4PDuNWv19Jw" title="Embedding H5P in Wordpress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Add you h5P content to Google Classroom
+## Add your h5P content to Google Classroom
 1. Go to classrom, select **Material**
 2. Next, provide a title and description
 3. After, click the **add** button on the left side with the link icon. Click **add link**.
