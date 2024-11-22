@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-## Memory / Image Pairing ,Image Sequencing, Image Slider, Image Hotspots and Image Juxtaposition
+## Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Hotspots and Image Juxtaposition
 (these activities do not need to be done in a specific order however the Memory game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
 
 ### Memory Game and Image Pairing 
