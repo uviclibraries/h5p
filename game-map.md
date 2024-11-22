@@ -20,7 +20,7 @@ parent: Workshop Activities
     - first label the stage, we can label the first one as beginning.
     - Scroll down to the **Stage Content** and toggle to select **dialog cards**. This is like using flash cards to study.
     - You can title it as **what animal swims?** no need for a heading or task description but you can add if you would like.
-    - Select **normal mode**
+    - Under **mode** Select **normal mode**
     - Under dialog: enter the text **What animal swims?** and then enter **whale** as the answer.
 11. Repeat step 9 to then use the following stage content: **Fill in the blanks**
     - You can name the stage label **water creatures** and title it **Fill in the blank**
