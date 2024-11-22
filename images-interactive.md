@@ -8,3 +8,9 @@ parent: Workshop Activities
 ## Memory, Image Sequencing,  Image Pairing, Image Hotspots, Image Juxtaposition, Image Slider
 
 ### Memory 
+
+
+
+
+
+[NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
