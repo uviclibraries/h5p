@@ -115,4 +115,4 @@ For the H5P activity follow the next steps
 11. Now select **Create** and there you have your image juxtaposition.<br>
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="675" height="493" frameborder="0" allowfullscreen="allowfullscreen" title="Library"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
-[NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
+[NEXT STEP: sharing and embedding](sharing.html){: .btn .btn-blue }<br>
