@@ -9,13 +9,13 @@ parent: Workshop Activities
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Game map** and click on  **Get** and **Install**
-4. Once you have done this the *get* button should be replaced with a blue **Use**. Click that.
+4. Once you have done this, the *get* button should be replaced with a blue **Use**. Click that.
 5. You can also try the content demo, which is also linked [here](https://h5p.org/content-types/game-map#example=1463359){:target="_blank"}.
 <img src="images/text-blocks.png" style="width:500px"> 
 6. You can title your project, for the purpose of this workshop you can title it Learning adventure.
 7. Add a background image, we will use the following image, so please [download the photo by cottonbro studio](https://www.pexels.com/photo/assorted-children-toys-3661243/){:target="_blank"}. 
 8. Once downloaded, select **Add** to the background image.
-9. Now click on **step 2, game map** and toggle the first icon which says **add exercise stage**
+9. Now click on **step 2, game map** and toggle the first icon, which is a star, which says **add exercise stage** when you toggle over it.
 10. **Dialog cards**
     - first label the stage, we can label the first one as beginning. Next we will select **dialog cards** as the stage content. This is like using flash cards to study.
     - You can title it as **what animal swims?**, no need for a heading or task description but you can add if you would like.
