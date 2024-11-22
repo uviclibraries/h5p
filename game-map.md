@@ -17,8 +17,9 @@ parent: Workshop Activities
 8. Once downloaded, select **Add** to the background image.
 9. Now click on **step 2, game map** and toggle the first icon, which is a star, which says **add exercise stage** when you toggle over it.
 10. **Dialog cards**
-    - first label the stage, we can label the first one as beginning. Next we will select **dialog cards** as the stage content. This is like using flash cards to study.
-    - You can title it as **what animal swims?**, no need for a heading or task description but you can add if you would like.
+    - first label the stage, we can label the first one as beginning.
+    - Scroll down to the **Stage Content** and toggle to select **dialog cards**. This is like using flash cards to study.
+    - You can title it as **what animal swims?** no need for a heading or task description but you can add if you would like.
     - Select **normal mode**
     - Under dialog: enter the text **What animal swims?** and then enter **whale** as the answer.
 11. Repeat step 9 to then use the following stage content: **Fill in the blanks**
