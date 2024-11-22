@@ -20,6 +20,7 @@ Before you start making your own interactive video, please watch this excellent 
 - If this is your first time using H5P, click on the blue **I consent, give me the Hub!** button to enable the H5P features you will need to make your interactive video.<br>
 <img src="images/h5p-02.png" style="width:300px">
 - Next  once you have selected Add New, select **interactive videos**, you’ll need to click on the **Get** button beside the top item (Interactive video).<br>.
+- Press **install**
 ![Get H5P Interactive video plugin](images/h5p-03.gif)
 
 Great Job!<br>
