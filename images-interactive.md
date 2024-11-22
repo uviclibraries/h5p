@@ -26,13 +26,21 @@ parent: Workshop Activities
 12.  You can add a final description for once the 2 cards are found. For instance you could say. **Congrats you found the strawberry.**
 13.  Next scroll back to the top and press on card 2 and repeat steps 8-12 but with the next photo, the apple. This time no need to add an audio track. 
 14.  Finally select **Add new** card and repeat again for the cherries and raspberries.
-<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="400" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
-
-15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.
+15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="400" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Sequencing
-
-
-
+Follow steps 1-5 but search for **Image Sequencing** instead.
+1. Next title your project as **Sequencing Alphabetically**
+2. For the task description, write **Drag to arrange the images in the correct alphabetical sequence**
+3. For alternate task description, write **Make the following list be ordered correctly using alphabetical order. Use the cursor keys to navigate through the list items, use space to activate or deactivate an item and the cursor keys to move it**
+4. We will stick to using the same four images you previously downloaded in the memory game step 7
+5. Add new image and image description starting with the strawberry.
+6. Then select card 2 and do the same as step 5 with the apple
+7. Repeat on card 3 for the Cherries
+8. Finally **add new image**, to add the Raspeberries
+9. Now before completing, make sure to move the images in the correct order starting with Apple. Use the arrows to do this.
+10. The order is as follows Apple, Cherries, Raspberries, Strawberry
+11. Once you have done this,  click the **Create** button on the top right hand side.
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="400" height="500" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> <br>
 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
