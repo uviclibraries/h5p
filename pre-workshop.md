@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with **H5P** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Pre-workshop activity**
-- Please complete this [Wordpress workshop](https://uviclibraries.github.io/wordpress/) to create your Wordpress account
+- Please complete this [Wordpress workshop](https://uviclibraries.github.io/wordpress/){:target="_blank"} to create your Wordpress account
 
 **Optional**<br>
 - [Introduction to h5P](https://www.youtube.com/watch?v=jAnkWFBXW_o){:target="_blank"}<br>
