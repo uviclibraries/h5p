@@ -11,7 +11,7 @@ parent: Workshop Activities
 - Copy and paste a YouTube URL into the text box and click the **Insert** button. **-OR-**
 - Click on the **Upload video file** button and upload your video to your blog.
 
-  For example: use the following [youtube video](https://www.youtube.com/watch?v=1O-Mi43H9wM){:target="_blank"} or dowmload the following [video](http://bit.ly/dsc-goat-video){:target="_blank"}
+  For example: use the following [youtube video](https://www.youtube.com/watch?v=1O-Mi43H9wM){:target="_blank"} or download the following [video](http://bit.ly/dsc-goat-video){:target="_blank"}
 - Click on the **text box** below the Title label, and type in the title for your video.<br>
 ![Enable the H5P Video tool](images/h5p-04.gif)
 
