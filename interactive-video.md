@@ -10,6 +10,8 @@ parent: Workshop Activities
 - Click on the **light grey plus** button under the “**Add a video**” text.
 - Copy and paste a YouTube URL into the text box and click the **Insert** button. **-OR-**
 - Click on the **Upload video file** button and upload your video to your blog.
+
+  For example: use the following [youtube video](https://www.youtube.com/watch?v=1O-Mi43H9wM)
 - Click on the **text box** below the Title label, and type in the title for your video.<br>
 ![Enable the H5P Video tool](images/h5p-04.gif)
 
