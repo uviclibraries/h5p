@@ -43,5 +43,5 @@ parent: Workshop Activities
 
  Congratulations, you’ve created an interactive video.
  
-[NEXT STEP: Creating a game map](game-map.html){: .btn .btn-blue }<br>
+[NEXT STEP: Creating a game map](game-map.html){: .btn .btn-blue }<br>or
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
