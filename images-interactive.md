@@ -5,12 +5,13 @@ nav_order: 6
 parent: Workshop Activities
 ---
 
-## Memory, Image Sequencing,  Image Pairing, Image Hotspots, Image Juxtaposition, Image Slider
+## Memory / Image Pairing ,Image Sequencing, Image Hotspots, Image Juxtaposition, Image Slider
 
-### Memory Game
+### Memory Game and Image Pairing 
+(The difference between memory and Image pairing is that the matching image of the image pair is typically not the same image, so instead of downloading 4 images you would have to download 8 and find themes for example we could have raspberries and strawberries matching as they are both berries and then have a red apple and  a green apple for instance). 
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
-3. In the search for content types box, type **Memory** and click on  **get** and **install**
+3. In the search for content types box, type **Memory** or **Image Pairing** and click on  **get** and **install**
 4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
 5. Then press use.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruit**.
@@ -42,5 +43,26 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 10. The order is as follows Apple, Cherries, Raspberries, Strawberry
 11. Once you have done this,  click the **Create** button on the top right hand side.
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="400" height="500" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script> <br>
+
+### Image Hotspots 
+Follow steps 1-5 under the Memory game activity but search for **Image hotspots** instead.
+1. Title your project as **Fruit Smoothie**
+2. Download the following [Image](https://www.pexels.com/photo/strawberry-smoothie-on-glass-jar-775032/){:target="_blank"}
+3. Next, add that image as the **background image** by clicking the **+ Add** button. Find it in your downloads or wherever you saved the image.
+4. You can add an alternative text such as **fruit recipe for smoothie**
+5. Now you can elect the hotspot icon, we will use a **predefined icon**
+6. For this workshop, I will use the predefined **info icon**.
+7. My hotspot colour will be #1d3b99, but feel free to select your own by using the toggle.
+8. **Hotspot**: Click on the bananas on the image. Sometimes you have to double click. 
+9. Finally for the **Popup content**, select **text** from the toggle
+10. Write **3 bananas**
+11. Next we will **add hotspot** by clicking the blue bottom at the bottom
+12. We will repeat step 8 but select the strawberries this time.
+13. You will add a header of strawberries
+14. Finally for the **Popup content**, select **video** from the toggle.
+15. Title it as **Strawberry Banana Smoothie**
+16. For video source, paste the following link [https://www.youtube.com/watch?v=TJPhWB67_lA](**https://www.youtube.com/watch?v=TJPhWB67_lA**){:target="_blank"}
+17. Finally return to the top and on the right side, click the **Create** button
+
 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
