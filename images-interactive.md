@@ -15,10 +15,10 @@ parent: Workshop Activities
 5. Then press use.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruit**.
 7. Next you will download the following images:
-   - [strawberry](https://www.pexels.com/search/strawberry/){:target="_blank"},
+   - [strawberry](https://www.pexels.com/photo/red-and-orange-apple-fruit-102104/){:target="_blank"},
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
-   - [cherries](https://www.pexels.com/search/cherries/){:target="_blank"} and
-   - [raspberry](https://www.pexels.com/search/raspberry/){:target="_blank"}
+   - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
+   - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
 9. Next, you can add an image, by clicking the **+Add** button
 
 
