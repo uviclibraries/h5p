@@ -20,7 +20,7 @@ parent: Workshop Activities
 - Click on Step 2 **Add interactions** tab.
 - On the toolbar above the video click on the **T** button.
 - In the dialogue box that appears, click on the **Pause video** checkbox.
-- Next type the text you want to appear in the dialogue box in the **Text** field near the bottom.
+- Type the text you want to appear in the dialogue box in the **Text** field near the bottom.
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
 - You can now move the text box around the video window and resize the text box to fit your needs.<br>
@@ -31,9 +31,9 @@ parent: Workshop Activities
 - On the toolbar above the video click on the **multiple-choice** button (the button with 1 check mark, 2 Xs and 3 lines beside them).
 - In the dialogue box that appears, click on the **Pause video** checkbox.
 - Click the **Poster** radio button just below the Pause video checkbox.
-- Next type the title you want for your multiple-choice question in the **Title** text box.
-- Next type in the question in the **Question** field.
-- Next type in the correct answer in the first **Alternatives** field.
+- Type the title you want for your multiple-choice question in the **Title** text box.
+- Type in the question in the **Question** field.
+- Type in the correct answer in the first **Alternatives** field.
 - Type in other answers below, clicking the **Add answer** button as necessary.
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
