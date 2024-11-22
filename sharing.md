@@ -18,7 +18,7 @@ parent: Workshop Activities
 2. Next, provide a title and description
 3. After, click the **add** button on the left side with the link icon. Click **add link**.
 4. Next, return to your H5P video and click the embed and select the iframe to add it to the link in Google Classroom.
-[Adding to Google Classroom](https://www.youtube.com/watch?v=d3mgQ_EecTE)
+[Adding to Google Classroom](https://www.youtube.com/watch?v=d3mgQ_EecTE){:target="_blank"}.
 
 Great work you are now able to create an h5p resource and embed it into your blog or Google classroom site. 
 
