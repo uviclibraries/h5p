@@ -21,14 +21,15 @@ parent: Workshop Activities
 - On the toolbar above the video click on the **T** button.
 - In the dialogue box that appears, click on the **Pause video** checkbox.
 - Type the text you want to appear in the dialogue box in the **Text** field near the bottom.
+- For the time stamp of the video: select where you want to insert the text. Example **0:40-0:55**
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
 - You can now move the text box around the video window and resize the text box to fit your needs.<br>
 ![Add an interaction to your H5P Video](images/h5p-05.gif)
 
-## Adding a Multiple choice Question 
+## Adding a Multiple Choice with Single Answer Question 
 3. Add a multiple-choice question to your video
-- On the toolbar above the video click on the **multiple-choice** button (the button with 1 check mark, 2 Xs and 3 lines beside them).
+- On the toolbar above the video click on the **single choice** button (the button with 3 circles and 3 lines beside them).
 - In the dialogue box that appears, click on the **Pause video** checkbox.
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Type the title you want for your multiple-choice question in the **Title** text box.
