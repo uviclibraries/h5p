@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why H5P? 
 
-[H5P](https://h5p.org/){:target="_blank"} is a open source toolkit that allows users to modify ehisting Youtube videos and create interactive web based content to make learning more engaging. H5P can act as a tool for educators to create self-paced makerspace instruction and self assessments, thus making learning accessible and a personalized experience. 
+[H5P](https://h5p.org/){:target="_blank"} is a open source toolkit that allows users to modify existing Youtube videos and create interactive web based content to make learning more engaging. H5P can act as a tool for educators to create self-paced makerspace instruction and self assessments, thus making learning accessible and a personalized experience. 
 Therefore H5P interactive videos help create a more dynamic, engaging, and learner-centered environment that supports various educational goals—from increasing engagement and comprehension to providing personalized learning experiences and real-time feedback.
 
 H5P stands for HTML5 Package and is an open-source framework that allows educators and content creators to create, share, and reuse interactive content such as videos, quizzes, games, presentations, and more, all within HTML5. This makes it compatible across various devices and platforms without the need for additional plugins.
