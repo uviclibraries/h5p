@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/h5p.png" style="float:right;width:220px" alt="H5P logo"> 
 
-# Web Based Instruction & Self-Assessment Using the Open Source H5P Toolkit
+# H5P Toolkit for Web-based instruction
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 15 min
