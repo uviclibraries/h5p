@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 ## Memory, Image Sequencing,  Image Pairing, Image Hotspots, Image Juxtaposition, Image Slider
 
-### Memory 
+### Memory Game
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Memory** and click on  **get** and **install**
@@ -29,7 +29,7 @@ parent: Workshop Activities
 15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="400" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Sequencing
-Follow steps 1-5 but search for **Image Sequencing** instead.
+Follow steps 1-5 under the Memory game activity but search for **Image Sequencing** instead.
 1. Next title your project as **Sequencing Alphabetically**
 2. For the task description, write **Drag to arrange the images in the correct alphabetical sequence**
 3. For alternate task description, write **Make the following list be ordered correctly using alphabetical order. Use the cursor keys to navigate through the list items, use space to activate or deactivate an item and the cursor keys to move it**
