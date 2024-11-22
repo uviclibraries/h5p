@@ -22,6 +22,7 @@ parent: Workshop Activities
     - You can title it as **what animal swims?** no need for a heading or task description but you can add if you would like.
     - Under **mode** Select **normal mode**
     - Under dialog: enter the text **What animal swims?** and then enter **whale** as the answer.
+    - Finally press **done**
 11. Repeat step 9 to then use the following stage content: **Fill in the blanks**
     - You can name the stage label **water creatures** and title it **Fill in the blank**
     - Keep the task as the existing text. **Fill in the missing words**. You can also add more descriptions if you would like
