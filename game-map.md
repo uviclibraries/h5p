@@ -10,7 +10,7 @@ parent: Workshop Activities
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Game map** and click on  **get** and **install**
 4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
-5. Then press use, you can also try the content demo, which is also linked [here](https://h5p.org/content-types/game-map#example=1463359){:target="_blank"}.
+5. You can also try the content demo, which is also linked [here](https://h5p.org/content-types/game-map#example=1463359){:target="_blank"}.
 <img src="images/text-blocks.png" style="width:500px"> 
 6. Next you can title your project, for the purpose of this workshop you can title it Learning adventure.
 7. Next add a background image, we will use the following image, so please [download the photo by cottonbro studio](https://www.pexels.com/photo/assorted-children-toys-3661243/){:target="_blank"}. 
