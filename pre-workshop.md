@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with **H5P** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Pre-workshop activity**
-- Please complete this [OpenEd Wordpress Setup](https://uviclibraries.github.io/wordpress/open-ed-account-setup.html){:target="_blank"} to create your Wordpress account
+- Create an OpenEd.ca account and website on the following web page. **Please make sure to use your UVic.ca email address when asked for an email address**: [OpenEd Account & Wordpress Website Setup](https://opened.ca/wp-signup.php){:target="_blank"}.
 
 **Optional**<br>
 - [Introduction to h5P](https://www.youtube.com/watch?v=jAnkWFBXW_o){:target="_blank"}<br>
