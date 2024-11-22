@@ -1,4 +1,4 @@
-# Web Based Instruction & Self-Assessment Using the Open Source H5P Toolkit
+# H5P Toolkit for Web-based instruction
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://lib.uvic.ca/h5p
