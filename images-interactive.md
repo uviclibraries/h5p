@@ -19,7 +19,18 @@ parent: Workshop Activities
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
    - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
    - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
-9. Next, you can add an image, by clicking the **+Add** button
+8. Next, you can add an image, by clicking the **+Add** button, lets start by adding the strawberry image that we downloaded in step 7. 
+9.  You must also add an alternative text to make the activity accessible, ie label your fruit with their names. As an option, you can also add audio tracks.
+10.  To try the audio feature out add the following URL: [https://www.youtube.com/watch?v=V5gbngf_7w0](https://www.youtube.com/watch?v=V5gbngf_7w0){:target="_blank"}
+11.  In the same card, add the image a second time, since this will be a game of memory. So repeat steps 8-10.
+12.  You can add a final description for once the 2 cards are found. For instance you could say. **Congrats you found the strawberry.**
+13.  Next scroll back to the top and press on card 2 and repeat steps 8-12 but with the next photo, the apple. This time no need to add an audio track. 
+14.  Finally select **Add new** card and repeat again for the cherries and raspberries.
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="675" height="843" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+
+### Image Sequencing
+
+15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.
 
 
 
