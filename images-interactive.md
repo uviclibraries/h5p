@@ -30,6 +30,21 @@ parent: Workshop Activities
 14.  Finally select **Add new** card and repeat again for the cherries and raspberries.
 15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="400" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
+### Drag and Drop
+Follow steps 1-5 under the Memory game activity but search for Drag and Drog instead.
+1. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruits**.
+2. Now under settings add a background image, if you wish. For this activty we will toggle to **step 2 task**
+3. Next scroll back up and click on the **circle target icon** to add a drop zone.
+5. Label the drop zone as the fruit name, for instance strawberry and tick the **show label box**.
+6. Next. tick the box **This drop zone can only contain one element** and press **done** when it is complete
+7. Next repeat step 3-5 and do that for the other fruits (raspberry, apples, cheries)
+8. Now, we will add our images. We will use the same ones we downloaded in step 7 for the previous activity of memory. To do this click the third icon under the task box, it looks like a **image icon**
+9. Add your fruit image by repeating step 7-9 for each image and provide the name of the fruit as the alternative text.
+10. Note for each image you must **select all** drop zones, so that particpants can drag to all the possible options . For instance **the strawberry image with the strawberry dropbox**
+11. Once all images are added you must also reclick the drop boxes and tick the correct elements for the specific boxes.
+12. Click **Create**. You have now created a drag and drop activity. Great work.
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=17" width="675" height="485" frameborder="0" allowfullscreen="allowfullscreen" title="Fruits"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+
 ### Image Sequencing
 Follow steps 1-5 under the Memory game activity but search for **Image Sequencing** instead.
 1. Next title your project as **Sequencing Alphabetically**
