@@ -49,6 +49,7 @@ nav_order: 10
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- **MORE ACKNOWLEDGEMENTS HERE**
+- [Brittany Johnson](https://brittanyseducblog.opened.ca/){:target="_blank"} for the creation of the workshop.
+- Rich McCue
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
