@@ -51,4 +51,4 @@ Repeat steps 1-5 except instead of crossword select **Find the words**
 7. Finally select the green **create** button on the right side of the screen
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="675" height="494" frameborder="0" allowfullscreen="allowfullscreen" title="word search"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 Congratualations you created a word search activity. Great work.<br>
-[NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
+[NEXT STEP: Interactive Images](images-interactive.html){: .btn .btn-blue }<br>
