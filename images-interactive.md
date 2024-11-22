@@ -14,7 +14,7 @@ Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Im
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Memory** or **Image Pairing** and click on  **get** and **install**
 4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
-5. Then press use.
+5. Press **use**.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruit**.
 7. Next you will download the following images:
    - [strawberry](https://www.pexels.com/photo/red-and-orange-apple-fruit-102104/){:target="_blank"},
@@ -52,7 +52,7 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 3. For alternate task description, write **Make the following list be ordered correctly using alphabetical order. Use the cursor keys to navigate through the list items, use space to activate or deactivate an item and the cursor keys to move it**
 4. We will stick to using the same four images you previously downloaded in the memory game step 7
 5. Add new image and image description starting with the strawberry.
-6. Then select card 2 and do the same as step 5 with the apple
+6. Select card 2 and do the same as step 5 with the apple
 7. Repeat on card 3 for the Cherries
 8. Finally **add new image**, to add the Raspeberries
 9. Now before completing, make sure to move the images in the correct order starting with Apple. Use the arrows to do this.
@@ -104,7 +104,7 @@ For the H5P activity follow the next steps
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Image Juxtaposition** and click on  **get** and **install**
 4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
-5. Then press use.
+5. Press use.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Library**.
 7. Next you will need to download two images, select the **bottom right arrow down button** and download the **original size** (note if you select your own images they must be approximately the same size and the picture must be taken at the same angle to create the effect.
 8. Add Image 1 of the black and white image. THis image will be the left hand side of the juxtaposition.
