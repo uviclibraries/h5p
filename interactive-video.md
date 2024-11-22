@@ -32,7 +32,7 @@ parent: Workshop Activities
 - In the dialogue box that appears, click on the **Pause video** checkbox.
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Next type the title you want for your multiple-choice question in the **Title** text box.
-- Next type in the question in the Question text **Text** field.
+- Next type in the question in the **Question** field.
 - Next type in the correct answer in the first **Alternatives** field.
 - Type in other answers below, clicking the **Add answer** button as necessary.
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
