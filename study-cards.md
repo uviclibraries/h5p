@@ -7,7 +7,6 @@ parent: Workshop Activities
 
 ## Flashcards and Dialogue cards
 
-Flashcards
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Flashcards** and click on  **get** and **install**
@@ -27,3 +26,5 @@ Flashcards
 17. Now press **create** and you now have some nice flashcards
 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=18" width="675" height="806" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit names in French"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+[NEXT STEP: sharing and embedding](sharing.html){: .btn .btn-blue }<br>
