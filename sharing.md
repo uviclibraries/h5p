@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 6-Sharing and Embedding 
-nav_order: 6
+title: 7-Sharing and Embedding 
+nav_order: 7
 parent: Workshop Activities
 ---
 
