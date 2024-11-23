@@ -25,7 +25,7 @@ parent: Workshop Activities
     - Finally press **done**
 11. Repeat step 9 to then select the following **stage content**: **Fill in the Blanks**
     - You can name the stage label **water creatures** and title it **Fill in the blank**
-    - Keep the task description as the existing text. **Fill in the missing words**. You can also add more descriptions if you would like
+    - Keep the task description as the existing text, **Fill in the missing words**. You can also add more descriptions if you would like
     - Finally, under the text blocks copy and paste the following:**There are many animals that exist and some belong in the water and others on *land* . Animals that live in the ocean include *whales :plural* and others include *crocodiles :starts with a c.***
     - Also see screenshot for important instructions on when to use an asterisk, forward slash and colon.<br>
 <img src="images/game-map-2.png" style="width:500px"> 
