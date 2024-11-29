@@ -5,7 +5,7 @@ nav_order: 6
 parent: Workshop Activities
 ---
 # Interactive Image Activities
-Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Hotspots,Image Juxtaposition and Guess the Answer.
+Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Juxtaposition and Guess the Answer.
 (These activities do not need to be done in a specific order, however the Memory Game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
 
 ### Memory Game and Image Pairing 
@@ -72,27 +72,6 @@ Follow steps 1-5 under the Memory game activity but search for **Image Slider** 
 4. Add item to add more images.<br>
 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=16" width="675" height="516" frameborder="0" allowfullscreen="allowfullscreen" title="Red fruit examples"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
-
-### Image Hotspots 
-Follow steps 1-5 under the Memory game activity but search for **Image hotspots** instead.
-1. Title your project as **Fruit Smoothie**
-2. Download the following [Image](https://www.pexels.com/photo/strawberry-smoothie-on-glass-jar-775032/){:target="_blank"}
-3. Next, add that image as the **background image** by clicking the **+ Add** button. Find it in your downloads or wherever you saved the image.
-4. You can add an alternative text such as **fruit recipe for smoothie**
-5. Now you can elect the hotspot icon, we will use a **predefined icon**
-6. For this workshop, I will use the predefined **info icon**.
-7. My hotspot colour will be #1d3b99, but feel free to select your own by using the toggle.
-8. **Hotspot**: Click on the bananas on the image. Sometimes you have to double click. 
-9. Finally for the **Popup content**, select **text** from the toggle
-10. Write **3 bananas**
-11. We will **add hotspot** by clicking the blue bottom at the bottom
-12. We will repeat step 8 but select the strawberries this time.
-13. You will add a header of strawberries
-14. Finally for the **Popup content**, select **video** from the toggle.
-15. Title it as **Strawberry Banana Smoothie**
-16. For video source, paste the following link [https://www.youtube.com/watch?v=TJPhWB67_lA](**https://www.youtube.com/watch?v=TJPhWB67_lA**){:target="_blank"}
-17. Finally return to the top and on the right side, click the **Create** button
-<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="675" height="1036" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit Smoothie"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Juxtaposition
 Sample pre-processed images for making a Juxtapose are available on Flickr: an image of the [McPherson Library in 1963](https://www.flickr.com/photos/152721723@N08/40478805172/in/photostream/){:target="_blank"} and a [similar image from 2013](https://www.flickr.com/photos/152721723@N08/40478806912/){:target="_blank"}, and an image of the BC Parliament buildings [by day](https://www.flickr.com/photos/152721723@N08/39488549515/in/photostream/){:target="_blank"} and [by night](https://www.flickr.com/photos/152721723@N08/39674455174/){:target="_blank"} 
