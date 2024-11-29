@@ -27,4 +27,5 @@ parent: Workshop Activities
 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=18" width="675" height="806" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit names in French"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-[NEXT STEP: sharing and embedding](sharing.html){: .btn .btn-blue }<br>
+[Quiz](quiz.html){: .btn .btn-blue } or <br>
+[Sharing and embedding](sharing.html){: .btn .btn-blue }<br>
