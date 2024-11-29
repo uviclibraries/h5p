@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 7-Study Cards
-nav_order: 7
+title: 8-Study Cards
+nav_order: 8
 parent: Workshop Activities
 ---
 
