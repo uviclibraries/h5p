@@ -5,8 +5,8 @@ nav_order: 6
 parent: Workshop Activities
 ---
 # Interactive Image Activities
-Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Hotspots and Image Juxtaposition.
-(these activities do not need to be done in a specific order however the Memory game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
+Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Hotspots,Image Juxtaposition and Guess the Answer.
+(These activities do not need to be done in a specific order, however the Memory Game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
 
 ### Memory Game and Image Pairing 
 (The difference between memory and Image pairing is that the matching image of the image pair is typically not the same image, so instead of downloading 4 images you would have to download 8 and find themes for example we could have raspberries and strawberries matching as they are both berries and then have a red apple and  a green apple for instance). 
@@ -17,7 +17,7 @@ Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Im
 5. Press **use**.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruit**.
 7. Next you will download the following images:
-   - [strawberry](https://www.pexels.com/photo/red-and-orange-apple-fruit-102104/){:target="_blank"},
+   - [strawberry](https://www.pexels.com/photo/strawberry-on-blue-surface-566888/){:target="_blank"},
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
    - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
    - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
@@ -114,6 +114,24 @@ For the H5P activity follow the next steps
 10. Click **behavioural settings**, leave the slider to be horizonal but change the slider color to a color of your choosing. I will choose #3a18b1.
 11. Now select **Create** and there you have your image juxtaposition.<br>
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="675" height="493" frameborder="0" allowfullscreen="allowfullscreen" title="Library"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+
+### Guess the answer 
+1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
+3. In the search for content types box, type **Guess the answer** and click on  **get** and **install**
+4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+5. Press use.
+6. It will now ask for a title, for this activity you can choose your own title or type **Fruit in French**
+7. For the description, write **Name the fruit in French**
+8. Click the **media** toggle arrow, next select the type by clicking the down arrow and selecting **image**
+9. Click the **+ add** button, and use the fruit we have downloaded previously (see memory game activity top of page).
+10. I will first add the [strawberry](https://www.pexels.com/photo/strawberry-on-blue-surface-566888/) by selecting it from my downloads and clicking **open**.
+11. Next for the alternative text, I will type **red berry**
+12. We will leave the descriptive solution label as **click to see the answer**
+13. The solution text will be **fraise**
+14. Select the green create button and you have your guess the answer activity.
+    
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=19" width="958" height="784" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit in French"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 [NEXT STEP: Study Cards](study-cards.html){: .btn .btn-blue }<br> or
 [Sharing and embedding](sharing.html){: .btn .btn-blue }<br>
