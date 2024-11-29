@@ -53,7 +53,8 @@ Note the hotspots are pretty specific to the location so lets go back and edit t
 18. Select **hotspots**
 19. Click on desired hotspot and enlarge it by dragging one of the corners of the box.
 20. In the edit view, should now look like this see screenshot.
-21. Now press the **update** button on right side. 
+<img src="images/berries.png" style="width:500px"> 
+22. Now press the **update** button on right side. 
 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="958" height="796" frameborder="0" allowfullscreen="allowfullscreen" title="Berries"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
