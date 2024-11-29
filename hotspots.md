@@ -37,3 +37,7 @@ If you haven't already downloaded these images from Activity 6: Interactive Imag
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
    - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
    - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
+
+
+[NEXT STEP: Study Cards](study-cards.html){: .btn .btn-blue }<br> or
+[Sharing and embedding](sharing.html){: .btn .btn-blue }<br>
