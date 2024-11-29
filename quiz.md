@@ -35,6 +35,8 @@ Repeat steps 1-5 of single choice set except search for **multiple choice**
 7.  Finally find and click the green **create button** (right side of screen). 
 Optional if you wish to add media to your multiple choice question, feel free to include an image by returning to the **media toggle** under the title.
 
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=23" width="958" height="265" frameborder="0" allowfullscreen="allowfullscreen" title="UVic facts"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ### Arithmetic Quiz
 Repeat steps 1-5 of single choice set except search for **arithmetic quiz**
 1. Now lets provide a title, **Addition Quiz**
@@ -47,10 +49,17 @@ Note there is no way to change the quiz questions it is automatically generated 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="958" height="389" frameborder="0" allowfullscreen="allowfullscreen" title="Addition Quiz"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Quiz (Question set)
-
-
-
-
+Repeat steps 1-5 of single choice set except search for **Quiz question set**
+- This tool allows users to create multiple personalized questions using the various h5P tools. Question type include:
+  - Multiple choice
+  - Drag and Drop
+  - Fill in the blanks
+  - Mark the Words
+  - Drag the words
+  - True and False Questions
+ 
+Feel free to try this tool out on your own and refer to the various styles of quizzes if you have any issues, some can be found in the crosswords and paragraph: Activity 5 section as well as the Interactivite Images: Activity 6 . 
+An example can be found [here](https://h5p.org/question-set){:target="_blank"}
 Optional [Speak the word Set demo](https://h5p.org/speak-the-words-set){:target="_blank"}
 
 [NEXT STEP: sharing videos](sharing.html){: .btn .btn-blue }<br>
