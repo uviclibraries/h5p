@@ -28,6 +28,12 @@ parent: Workshop Activities
 Repeat steps 1-5 of single choice set except search for **multiple choice**
 1. Now title your quiz as **UVic facts**
 2. First question can be **What are some names of buildings on campus (select all that apply)**
+3. First text can be Maclaurin, second text can be Jamie Cassels Centre (these are both correct so check the **correct** box)
+4. Then the next text can be Fetch building, this is incorrect.
+5. Under Tips and feedback toggle, add a message displayed if answer is selected saying **This is the fountain not a building**
+6. If you which to add overall feedback and **range**, follow steps 11-14.
+7.  Finally find and click the green **create button** (right side of screen). 
+Optional if you wish to add media to your multiple choice question, feel free to include an image by returning to the **media toggle** under the title.
 
 ### Arithmetic Quiz
 Repeat steps 1-5 of single choice set except search for **arithmetic quiz**
