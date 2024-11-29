@@ -26,7 +26,8 @@ parent: Workshop Activities
 
 ### Multiple Choice
 Repeat steps 1-5 of single choice set except search for **multiple choice**
-
+1. Now title your quiz as **UVic facts**
+2. First question can be **What are some names of buildings on campus (select all that apply)**
 
 ### Arithmetic Quiz
 Repeat steps 1-5 of single choice set except search for **arithmetic quiz**
