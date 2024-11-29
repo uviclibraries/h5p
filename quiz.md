@@ -7,15 +7,39 @@ parent: Workshop Activities
 
 ### Single Choice Set Quiz 
 
-### Multiple Choice
+1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
+3. In the search for content types box, type **Single Choice** and click on **get** and **install**
+4. Once you have done this you the **get** button should be replaced with a blue **use**. Click that.
+5. Then press **use**.
+6. Title the quiz as **Places on Campus**
+7. Question can be as follows **What café is located in the library building?**
+8. The first answer is the correct one so add **Biblio** first then add **Macs** and finally add **Starbucks** by selecting add answer.
+9. For our second question **What cafê is located in the bookstore building?**
+10. This time the first answer must be **Starbucks** and then Biblio.
+11. Now lets add a overall feedback by clicking **add range**
+12. Add 0-50 range, by typing in **50** in the emoty box range, then write feedback for that range, example: **Try again, take a wlk on campus to locate the cafés**
+13. The next range will have now been adjusted for us, it should now say **51%-100%**: You can say **great work, go enjoy a coffee now at your favourite location.**
+14. Finally find and click the green **create button** (right side of screen). 
 
-### Personality Quiz 
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=22" width="958" height="232" frameborder="0" allowfullscreen="allowfullscreen" title="Places on Campus"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+### Multiple Choice
+Repeat steps 1-5 of single choice set except search for **multiple choice**
+
 
 ### Arithmetic Quiz
+Repeat steps 1-5 of single choice set except search for **arithmetic quiz**
+1. Now lets provide a title, **Addition Quiz**
+2. Quiz type can be **Arthimetic Operations**
+3. Arithmetic type can be **Addition**
+4. Max number of questions can be **20**
+5. Select **create** on right hand side.
+Note there is no way to change the quiz questions it is automatically generated and changes
 
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=21" width="958" height="389" frameborder="0" allowfullscreen="allowfullscreen" title="Addition Quiz"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
-
+### Quiz (Question set)
 
 
 
