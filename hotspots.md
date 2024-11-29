@@ -4,12 +4,13 @@ title: 7-Hotspots
 nav_order: 7
 parent: Workshop Activities
 ---
-# Interactive Image Activities
+# Hotspot Activities
 Activities included: Image Hotspots and Multiple Hotspots
 
+### Image Hotspots
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
-3. In the search for content types box, type **Memory** or **Image Pairing** and click on  **get** and **install**
+3. In the search for content types box, type **Image Hotspots** and click on  **get** and **install**
 4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
 5. Title your project as **Fruit Smoothie**
 6. Download the following [Image](https://www.pexels.com/photo/strawberry-smoothie-on-glass-jar-775032/){:target="_blank"}
@@ -31,7 +32,7 @@ Activities included: Image Hotspots and Multiple Hotspots
 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="675" height="1036" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit Smoothie"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
-### Multiple Hotspots
+### Multiple Hotspots and/or Find the Hotspot (same steps apply)
 1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Find Multiple Hotspots** and click on  **get** and **install**
