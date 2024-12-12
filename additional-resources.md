@@ -50,7 +50,7 @@ Here is an example incase you want to try creating an Advent Calendar on your ow
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- [Brittany Johnson](https://brittanyseducblog.opened.ca/){:target="_blank"} for the creation of the workshop.
-- Rich McCue
+- [Brittany Johnson](https://brittanyseducblog.opened.ca/){:target="_blank"} 
+- [Rich McCue](https://richmccue.com/){:target="_blank"}
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
