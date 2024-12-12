@@ -30,6 +30,6 @@ At the end of this workshop, you will be able to:
 6. Evaluating Learning - Use H5P tools to track student engagement and quiz performance.
 7. Reflection and Application - Reflect on how to use interactive videos in your own studies or teaching projects.
 
-These outcomes focus on key skills and concepts that you will be able to do upon completing this workshop 
+These outcomes focus on key skills and concepts that you will be able to do upon completing this workshop.<br>
 .
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
