@@ -21,7 +21,7 @@ Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Im
    - [apple](https://www.pexels.com/search/red%20apple/){:target="_blank"},
    - [cherries](https://www.pexels.com/photo/red-cherry-fruit-768009/){:target="_blank"} and
    - [raspberry](https://www.pexels.com/photo/wood-raspberries-sweet-fruit-179945/){:target="_blank"}
-8. You can add an image, by clicking the **+Add** button, lets start by adding the strawberry image that we downloaded in step 7. 
+8. You can add an image, by clicking the **+Add** button, lets start by adding the strawberry image that we downloaded in step 
 9.  You must also add an alternative text to make the activity accessible, ie label your fruit with their names. As an option, you can also add audio tracks.
 10.  To try the audio feature out add the following URL: [https://www.youtube.com/watch?v=V5gbngf_7w0](https://www.youtube.com/watch?v=V5gbngf_7w0){:target="_blank"}
 11.  In the same card, add the image a second time, since this will be a game of memory. So repeat steps 8-10.
@@ -59,7 +59,6 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 9. Now before completing, make sure to move the images in the correct order starting with Apple. Use the arrows to do this.
 10. The order is as follows Apple, Cherries, Raspberries, Strawberry
 11. Once you have done this,  click the **Create** button on the top right hand side.
-<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="675" height="758" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Slider
 Follow steps 1-5 under the Memory game activity but search for **Image Slider** instead.
