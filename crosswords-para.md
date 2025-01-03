@@ -52,4 +52,3 @@ Repeat steps 1-5 except instead of crossword select **Find the words**
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=7" width="575" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="word search"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 Congratualations you created a word search activity. Great work.<br>
 [NEXT STEP: Interactive Images](images-interactive.html){: .btn .btn-blue }<br>or 
-[Sharing and embedding](sharing.html){: .btn .btn-blue }<br>
