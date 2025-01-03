@@ -60,4 +60,3 @@ Note the hotspots are pretty specific to the location so lets go back and edit t
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="958" height="796" frameborder="0" allowfullscreen="allowfullscreen" title="Berries"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 [NEXT STEP: Study Cards](study-cards.html){: .btn .btn-blue }<br> or
-[Sharing and embedding](sharing.html){: .btn .btn-blue }<br>
