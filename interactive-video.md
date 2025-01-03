@@ -5,6 +5,10 @@ nav_order: 3
 parent: Workshop Activities
 ---
 ## Adding a Video
+In this exercise, you will practice capturing still shots of all or parts of your screen, annotating the screen captures and inserting the resulting image file into a blog post. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.
+
+Before you start making your own interactive video, please watch this excellent example of an H5P video being used to teach a grade 2 science experiment virtually.
+
 1. Add a new video to and prepare to add interactive elements to it:
 - Click on the **Interactive** button near the middle of the screen.
 - Click on the **light grey plus** button under the “**Add a video**” text.
