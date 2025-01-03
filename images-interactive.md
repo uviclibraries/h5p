@@ -59,7 +59,7 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 9. Now before completing, make sure to move the images in the correct order starting with Apple. Use the arrows to do this.
 10. The order is as follows Apple, Cherries, Raspberries, Strawberry
 11. Once you have done this,  click the **Create** button on the top right hand side.
-
+<img src="images/sequence.png" style="width:500px"> 
 ### Image Slider
 Follow steps 1-5 under the Memory game activity but search for **Image Slider** instead.
 1. Title your project as **Red Fruit Examples** and use the images you already downloaded in the Memory activity.
