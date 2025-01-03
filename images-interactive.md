@@ -28,7 +28,8 @@ Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Im
 12.  You can add a final description for once the 2 cards are found. For instance you could say. **Congrats you found the strawberry.**
 13. Scroll back to the top and press on card 2 and repeat steps 8-12 but with the next photo, the apple. This time no need to add an audio track. 
 14.  Finally select **Add new** card and repeat again for the cherries and raspberries.
-15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="400" height="400" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   
+<iframe src="https://braittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=9" width="675" height="843" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Drag and Drop
 Follow steps 1-5 under the Memory game activity but search for Drag and Drog instead.
