@@ -59,7 +59,7 @@ Follow steps 1-5 under the Memory game activity but search for **Image Sequencin
 9. Now before completing, make sure to move the images in the correct order starting with Apple. Use the arrows to do this.
 10. The order is as follows Apple, Cherries, Raspberries, Strawberry
 11. Once you have done this,  click the **Create** button on the top right hand side.
-<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="400" height="500" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
+<iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=10" width="675" height="758" frameborder="0" allowfullscreen="allowfullscreen" title="Sequencing alphabetically"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Slider
 Follow steps 1-5 under the Memory game activity but search for **Image Slider** instead.
