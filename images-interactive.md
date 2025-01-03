@@ -29,7 +29,7 @@ Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Im
 13. Scroll back to the top and press on card 2 and repeat steps 8-12 but with the next photo, the apple. This time no need to add an audio track. 
 14.  Finally select **Add new** card and repeat again for the cherries and raspberries.
 15.  Once you are finished and have added all the memory cards, click the **Create** button on the top right hand side.   
-<script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<img src="images/memory.png" style="width:500px"<br>
 
 ### Drag and Drop
 Follow steps 1-5 under the Memory game activity but search for Drag and Drog instead.
