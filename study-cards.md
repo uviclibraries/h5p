@@ -7,10 +7,10 @@ parent: Workshop Activities
 
 ## Flashcards and Dialogue cards
 
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Flashcards** and click on  **get** and **install**
-4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+4. After this, the ‘Get’ button will be replaced with a blue ‘Use’ button. Click on it.
 5. Then press use.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruit names in French**.
 7. Now you can add the following task description. **Write the name of each fruit in French.**

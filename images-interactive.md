@@ -6,14 +6,14 @@ parent: Workshop Activities
 ---
 # Interactive Image Activities
 Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Image Slider, Image Juxtaposition and Guess the Answer.
-(These activities do not need to be done in a specific order, however the Memory Game includes some images to download and the first 5 teps which are repeated in numerous of the other activities.) 
+(These activities do not need to be done in a specific order, however the Memory Game includes some images to download and the first 5 steps which are repeated in numerous of the other activities.) 
 
 ### Memory Game and Image Pairing 
 (The difference between memory and Image pairing is that the matching image of the image pair is typically not the same image, so instead of downloading 4 images you would have to download 8 and find themes for example we could have raspberries and strawberries matching as they are both berries and then have a red apple and  a green apple for instance). 
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Memory** or **Image Pairing** and click on  **get** and **install**
-4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+4. After this, the ‘Get’ button will be replaced with a blue ‘Use’ button. Click on it.
 5. Press **use**.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruit**.
 7. Next you will download the following images:
@@ -32,18 +32,18 @@ Activities included: Memory / Image Pairing, Drag and Drop, Image Sequencing, Im
 <img src="images/memory.png" style="width:500px"> 
 
 ### Drag and Drop
-Follow steps 1-5 under the Memory game activity but search for Drag and Drog instead.
+Follow steps 1-5 under the Memory game activity but search for Drag and Drop instead.
 1. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Fruits**.
-2. Now under settings add a background image, if you wish. For this activty we will toggle to **step 2 task**
+2. Now under settings add a background image, if you wish. For this activity we will toggle to **step 2 task**
 3. Scroll back up and click on the **circle target icon** to add a drop zone.
-5. Label the drop zone as the fruit name, for instance strawberry and tick the **show label box**.
-6. Tick the box **This drop zone can only contain one element** and press **done** when it is complete
-7. Repeat step 3-5 and do that for the other fruits (raspberry, apples, cheries)
-8. Now, we will add our images. We will use the same ones we downloaded in step 7 for the previous activity of memory. To do this click the third icon under the task box, it looks like a **image icon**
-9. Add your fruit image by repeating step 7-9 for each image and provide the name of the fruit as the alternative text.
-10. Note for each image you must **select all** drop zones, so that particpants can drag to all the possible options . For instance **the strawberry image with the strawberry dropbox**
-11. Once all images are added you must also reclick the drop boxes and tick the correct elements for the specific boxes.
-12. Click **Create**. You have now created a drag and drop activity. Great work.
+4. Label the drop zone as the fruit name, for instance strawberry and tick the **show label box**.
+5. Tick the box **This drop zone can only contain one element** and press **done** when it is complete
+6. Repeat step 3-5 and do that for the other fruits (raspberry, apples, cherries)
+7. Now, we will add our images. We will use the same ones we downloaded in step 7 for the previous activity of memory. To do this click the third icon under the task box, it looks like a **image icon**
+8. Add your fruit image by repeating step 7-9 for each image and provide the name of the fruit as the alternative text.
+9. Note for each image you must **select all** drop zones, so that participants can drag to all the possible options . For instance **the strawberry image with the strawberry dropbox**
+10. Once all images are added you must also reclick the drop boxes and tick the correct elements for the specific boxes.
+11. Click **Create**. You have now created a drag and drop activity. Great work.
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=17" width="675" height="485" frameborder="0" allowfullscreen="allowfullscreen" title="Fruits"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Image Sequencing
@@ -79,10 +79,10 @@ Sample pre-processed images for making a Juxtapose are available on Flickr: an i
 You can also do Image Juxtaposition through our other DSC Workshop on [Data VIsualization and Narrative Maps](https://uviclibraries.github.io/data-visualization-and-narrative-maps/comparison.html){:target="_blank"}
 
 For the H5P activity follow the next steps
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Image Juxtaposition** and click on  **get** and **install**
-4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+4. After this, the ‘Get’ button will be replaced with a blue ‘Use’ button. Click on it.
 5. Press use.
 6. It will now ask for a title, for this activity you can choose your own or follow along with our example. Type **Library**.
 7. Next you will need to download two images, select the **bottom right arrow down button** and download the **original size** (note if you select your own images they must be approximately the same size and the picture must be taken at the same angle to create the effect.
@@ -95,10 +95,10 @@ For the H5P activity follow the next steps
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=15" width="675" height="493" frameborder="0" allowfullscreen="allowfullscreen" title="Library"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Guess the answer 
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Guess the answer** and click on  **get** and **install**
-4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+4. After this, the ‘Get’ button will be replaced with a blue ‘Use’ button. Click on it.
 5. Press use.
 6. It will now ask for a title, for this activity you can choose your own title or type **Fruit in French**
 7. For the description, write **Name the fruit in French**

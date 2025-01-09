@@ -9,7 +9,7 @@ In this exercise, you will practice capturing still shots of all or parts of you
 
 Before you start making your own interactive video, please watch this excellent example of an H5P video being used to **[teach a grade 2 science experiment virtually](https://brittanyseducblog.opened.ca/2020/10/03/science-demonstration-video){:target="_blank"}**.
 
-1. Add a new video to and prepare to add interactive elements to it:
+1. Add a new video and prepare to enhance it with interactive elements:
 - Click on the **Interactive** button near the middle of the screen.
 - Click on the **light grey plus** button under the “**Add a video**” text.
 - Copy and paste a YouTube URL into the text box and click the **Insert** button. **-OR-**

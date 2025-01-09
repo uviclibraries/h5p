@@ -7,7 +7,7 @@ parent: Workshop Activities
 
 ### Single Choice Set Quiz 
 
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Single Choice** and click on **get** and **install**
 4. Once you have done this you the **get** button should be replaced with a blue **use**. Click that.
@@ -18,7 +18,7 @@ parent: Workshop Activities
 9. For our second question **What cafê is located in the bookstore building?**
 10. This time the first answer must be **Starbucks** and then Biblio.
 11. Now lets add a overall feedback by clicking **add range**
-12. Add 0-50 range, by typing in **50** in the emoty box range, then write feedback for that range, example: **Try again, take a wlk on campus to locate the cafés**
+12. Add 0-50 range, by typing in **50** in the emoty box range, then write feedback for that range, example: **Try again, take a walk on campus to locate the cafés**
 13. The next range will have now been adjusted for us, it should now say **51%-100%**: You can say **great work, go enjoy a coffee now at your favourite location.**
 14. Finally find and click the green **create button** (right side of screen). 
 
@@ -40,7 +40,7 @@ Optional if you wish to add media to your multiple choice question, feel free to
 ### Arithmetic Quiz
 Repeat steps 1-5 of single choice set except search for **arithmetic quiz**
 1. Now lets provide a title, **Addition Quiz**
-2. Quiz type can be **Arthimetic Operations**
+2. Quiz type can be **Arithmetic Operations**
 3. Arithmetic type can be **Addition**
 4. Max number of questions can be **20**
 5. Select **create** on right hand side.
@@ -58,7 +58,7 @@ Repeat steps 1-5 of single choice set except search for **Quiz question set**
   - Drag the words
   - True and False Questions
  
-Feel free to try this tool out on your own and refer to the various styles of quizzes if you have any issues, some can be found in the crosswords and paragraph: Activity 5 section as well as the Interactivite Images: Activity 6 . 
+Feel free to try this tool out on your own and refer to the various styles of quizzes if you have any issues, some can be found in the crosswords and paragraph: Activity 5 section as well as the Interactive Images: Activity 6 . 
 An example can be found [here](https://h5p.org/question-set){:target="_blank"}
 Optional [Speak the word Set demo](https://h5p.org/speak-the-words-set){:target="_blank"}
 
