@@ -8,10 +8,10 @@ parent: Workshop Activities
 Activities included: Image Hotspots and Multiple Hotspots
 
 ### Image Hotspots
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Image Hotspots** and click on  **get** and **install**
-4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+4. After this, the ‘Get’ button will be replaced with a blue ‘Use’ button. Click on it.
 5. Title your project as **Fruit Smoothie**
 6. Download the following [Image](https://www.pexels.com/photo/strawberry-smoothie-on-glass-jar-775032/){:target="_blank"}
 7. Next, add that image as the **background image** by clicking the **+ Add** button. Find it in your downloads or wherever you saved the image.
@@ -33,10 +33,10 @@ Activities included: Image Hotspots and Multiple Hotspots
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=11" width="675" height="1036" frameborder="0" allowfullscreen="allowfullscreen" title="Fruit Smoothie"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script><br>
 
 ### Multiple Hotspots and/or Find the Hotspot (same steps apply)
-1. In Wordpress, select my site in the upper toolbar, then on the left hand side select **H5P Content** and select **Add new**
+1. In WordPress, select **My Sites** in the upper toolbar. Then, on the left sidebar, select **H5P Content**  and then **Add new**
 2. Once add new is selected, a bunch of options will appear with a box including **Search for content types**.
 3. In the search for content types box, type **Find Multiple Hotspots** and click on  **get** and **install**
-4. Once you have done this you the get button should be replaced with a blue **use**. Click that.
+4. After this, the ‘Get’ button will be replaced with a blue ‘Use’ button. Click on it.
 5. Title your project as **Berries**
 6. Please now download the [following image](https://www.pexels.com/photo/assorted-fruits-on-a-box-6654941/){:target="_blank"}
 7. Now under background image, click the **+ add** button, and select the previously downloaded image (step 6) and press **open**
@@ -55,7 +55,7 @@ Note the hotspots are pretty specific to the location so lets go back and edit t
 19. Click on desired hotspot and enlarge it by dragging one of the corners of the box.
 20. In the edit view, should now look like this see screenshot.
 <img src="images/berries.png" style="width:500px"> 
-22. Now press the **update** button on right side. 
+22. Now click the **update** button on right side. 
 
 <iframe src="https://brittanyseducblog.opened.ca/wp-admin/admin-ajax.php?action=h5p_embed&id=20" width="958" height="796" frameborder="0" allowfullscreen="allowfullscreen" title="Berries"></iframe><script src="https://brittanyseducblog.opened.ca/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 

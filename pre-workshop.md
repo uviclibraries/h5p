@@ -4,7 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **H5P** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop focuses on hands-on practice with **H5P** to help you learn its key features. To make the most of the session, please complete the following **before the workshop**:
 
 **Pre-workshop activity**
 - Create an OpenEd.ca account and website on the following web page. **Please make sure to use your UVic.ca email address when asked for an email address**: [OpenEd Account & Wordpress Website Setup](https://opened.ca/wp-signup.php){:target="_blank"}.
