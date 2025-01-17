@@ -7,7 +7,7 @@ parent: Workshop Activities
 <img src="images/h5p.png" style="float:right;width:220px" alt="H5P logo"> 
 # H5P Plugin Installation
 
-1. If you haven’t done so already, install the H5P plugin in your WordPress blog, or if you are a UVic student, please create an [OpenEd.ca blog](https://opened.ca/get-started/){:target="_blank"} for this exercise if you don’t already have one.
+1. If you haven’t done so already, install the H5P plugin in your [OpenEd.ca blog](https://opened.ca/get-started/){:target="_blank"} for this exercise if you don’t already have one.
 
 2. Enable the H5P plugin on your WordPress blog:
 - In your blog administration control panel click on the **Plugins** button, on the left navigation bar, and then scroll down and find the H5P plugin, and click the **Activate button**.<br>
