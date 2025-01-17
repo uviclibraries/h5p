@@ -8,7 +8,7 @@ parent: Workshop Activities
 # H5P Plugin Installation
 
 1. If you haven’t done so already, install the H5P plugin in your [OpenEd.ca blog](https://opened.ca/get-started/){:target="_blank"} for this exercise if you don’t already have one.
-
+2. Create a Username, Sign up using your Netlink email and then select **Give me a site** and next. (see photo). <img src="images/opened-signup.png" style="width:220px" alt="Sign Up OpenEd"> 
 2. Enable the H5P plugin on your WordPress blog:
 - In your blog administration control panel click on the **Plugins** button, on the left navigation bar, and then scroll down and find the H5P plugin, and click the **Activate button**.<br>
 ![Activate H5P plugin](images/h5p-01.gif)
