@@ -8,8 +8,10 @@ This workshop focuses on hands-on practice with **H5P** to help you learn its ke
 
 **Pre-workshop activity**
 - Create an OpenEd.ca account and website on the following web page. **Please make sure to use your UVic.ca email address when asked for an email address**: [OpenEd Account & Wordpress Website Setup](https://opened.ca/wp-signup.php){:target="_blank"}.
-- Create a Username, Sign up using your Netlink email and then select **Give me a site** and next. (see photo).<br>                                                                             <img src="images/opened-signup.png" style="width:220px" alt="Sign Up OpenEd">
-
+- Create a Username, Sign up using your Netlink email and then select **Give me a site** and next. (see photo).<br>
+<img src="images/opened-signup.png" style="width:220px" alt="Sign Up OpenEd">
+- Use the Hemingway theme to Get Started.
+  
 **Optional**<br>
 - [Introduction to h5P](https://www.youtube.com/watch?v=jAnkWFBXW_o){:target="_blank"}<br>
 - [Making videos accesible](https://www.youtube.com/watch?v=0wMEqf6Rjeg){:target="_blank"}<br>
