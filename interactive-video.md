@@ -42,13 +42,13 @@ Before you start making your own interactive video, please watch this excellent 
 - Type in other answers below, clicking the **Add answer** button as necessary.
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
-- Click the blue **Create** button in the very top right or bottom right corner of the web page, depending on your screen size.
+- Click the blue **Create** button in the very top right or bottom right corner of the web page, depending on your screen size.  ![Add an interaction to your H5P Video](images/h5p-new-03.gif)
 - Finally, **copy the "Short Code"** on the top right of your screen that should look something like this:<br> 
    <code>[h5p id="1"]</code>
 ![H5P id code](images/h5p-9.png)
-  
+
 - You will paste the short code you just into a new blog post line or block in order to embed it in your blog post in the next step. Your interactive video is now ready to be embedded in a blog post or web page!<br>
-![Add an interaction to your H5P Video](images/h5p-06.gif)
+
 
  Congratulations, you’ve created an interactive video.
  
