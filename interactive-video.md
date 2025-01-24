@@ -29,7 +29,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
 - You can now move the text box around the video window and resize the text box to fit your needs.<br>
-![Add an interaction to your H5P Video](images/h5p-05.gif)
+![Add an interaction to your H5P Video](images/h5p-new-02.gif)
 
 ## Adding a Multiple Choice with Single Answer Question 
 3. Add a multiple-choice question to your video
