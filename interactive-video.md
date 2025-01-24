@@ -17,8 +17,11 @@ Before you start making your own interactive video, please watch this excellent 
 
   For example: use the following [youtube video](https://www.youtube.com/watch?v=1O-Mi43H9wM){:target="_blank"} or download the following [video](http://bit.ly/dsc-goat-video){:target="_blank"}
 - Click on the **text box** below the Title label, and type in the title for your video.<br>
-![Enable the H5P Video tool](images/h5p-new-01.gif)
-
+  <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/h5p-new-01.gif">
+      </div>
+      
 ## Adding Text
 2. Add an information text box to a video:
 - Click on Step 2 **Add interactions** tab.
@@ -49,7 +52,17 @@ Before you start making your own interactive video, please watch this excellent 
 
 - You will paste the short code you just into a new blog post line or block in order to embed it in your blog post in the next step. Your interactive video is now ready to be embedded in a blog post or web page!<br>
 
-
  Congratulations, you’ve created an interactive video.
  
+ <script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 [NEXT STEP: Creating a game map](game-map.html){: .btn .btn-blue }<br>
