@@ -32,8 +32,10 @@ Before you start making your own interactive video, please watch this excellent 
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
 - You can now move the text box around the video window and resize the text box to fit your needs.<br>
-![Add an interaction to your H5P Video](images/h5p-new-02.gif)
-
+  <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/h5p-new-02.gif">
+      </div>
 ## Adding a Multiple Choice with Single Answer Question 
 3. Add a multiple-choice question to your video
 - On the toolbar above the video click on the **single choice** button (the button with 3 circles and 3 lines beside them).
@@ -45,7 +47,10 @@ Before you start making your own interactive video, please watch this excellent 
 - Type in other answers below, clicking the **Add answer** button as necessary.
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
-- Click the blue **Create** button in the very top right or bottom right corner of the web page, depending on your screen size.  ![Add an interaction to your H5P Video](images/h5p-new-03.gif)
+- Click the blue **Create** button in the very top right or bottom right corner of the web page, depending on your screen size.    <button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+      <img src="images/h5p-new-03.gif">
+      </div>
 - Finally, **copy the "Short Code"** on the top right of your screen that should look something like this:<br> 
    <code>[h5p id="1"]</code>
 ![H5P id code](images/h5p-9.png)
