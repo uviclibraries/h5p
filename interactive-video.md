@@ -17,7 +17,7 @@ Before you start making your own interactive video, please watch this excellent 
 
   For example: use the following [youtube video](https://www.youtube.com/watch?v=1O-Mi43H9wM){:target="_blank"} or download the following [video](http://bit.ly/dsc-goat-video){:target="_blank"}
 - Click on the **text box** below the Title label, and type in the title for your video.<br>
-![Enable the H5P Video tool](images/h5p-new01.gif)
+![Enable the H5P Video tool](images/h5p-new-01.gif)
 
 ## Adding Text
 2. Add an information text box to a video:
