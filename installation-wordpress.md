@@ -17,7 +17,7 @@ parent: Workshop Activities
 <img src="images/h5p-02.png" style="width:300px">
 - Next  once you have selected Add New, select **interactive videos**, you’ll need to click on the **Get** button beside the top item (Interactive video).<br>.
 - Press **install**<br>
-![Get H5P Interactive video plugin](images/h5p-03.gif)
+![Get H5P Interactive video plugin](images/get-plugin.gif)
 
 Great Job!<br>
 ![H5P poster of tools](images/h5p-08.png)<br>
