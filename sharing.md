@@ -22,5 +22,5 @@ parent: Workshop Activities
 
 Great work you are now able to create an h5p resource and embed it into your blog or Google classroom site. 
 
-NOTE you can also embed h5P videos into Twine and other surfaces, by saving your video 
+NOTE you can also embed h5P videos into Twine and other surfaces, by saving your video and using an iframe to embed. 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
